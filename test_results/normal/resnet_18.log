@@ -1,0 +1,72 @@
+2024-04-04 10:08:26,471 [INFO] Testing in setup weak_test
+2024-04-04 10:08:26,471 [INFO] Test in normal setting
+2024-04-04 10:08:28,145 [INFO] Accuracy: 0.6943127962085308
+2024-04-04 10:08:28,147 [INFO] Test with added noise
+2024-04-04 10:08:28,147 [INFO] Testing with PSNR 50
+2024-04-04 10:08:30,080 [INFO] Accuracy: 0.6966824644549763
+2024-04-04 10:08:30,082 [INFO] Testing with PSNR 40
+2024-04-04 10:08:32,007 [INFO] Accuracy: 0.7002369668246445
+2024-04-04 10:08:32,008 [INFO] Testing with PSNR 30
+2024-04-04 10:08:33,932 [INFO] Accuracy: 0.6954976303317536
+2024-04-04 10:08:33,933 [INFO] Testing with PSNR 20
+2024-04-04 10:08:35,858 [INFO] Accuracy: 0.6907582938388626
+2024-04-04 10:08:35,859 [INFO] Testing with PSNR 10
+2024-04-04 10:08:37,777 [INFO] Accuracy: 0.6670616113744076
+2024-04-04 10:08:37,778 [INFO] Testing with quadratical lumination
+2024-04-04 10:08:39,412 [INFO] Accuracy: 0.6753554502369669
+2024-04-04 10:08:39,413 [INFO] Testing with linear lumination with scale 0.5
+2024-04-04 10:08:40,949 [INFO] Accuracy: 0.6883886255924171
+2024-04-04 10:08:40,950 [INFO] Testing with linear lumination with scale 0.6
+2024-04-04 10:08:42,479 [INFO] Accuracy: 0.6872037914691943
+2024-04-04 10:08:42,480 [INFO] Testing with linear lumination with scale 0.75
+2024-04-04 10:08:44,012 [INFO] Accuracy: 0.6883886255924171
+2024-04-04 10:08:44,012 [INFO] Testing with linear lumination with scale 1.3333333333333333
+2024-04-04 10:08:45,547 [INFO] Accuracy: 0.6883886255924171
+2024-04-04 10:08:45,548 [INFO] Testing with linear lumination with scale 0.6666666666666666
+2024-04-04 10:08:47,081 [INFO] Accuracy: 0.6883886255924171
+2024-04-04 10:08:47,082 [INFO] Testing with const lumination with scale -100
+2024-04-04 10:08:48,612 [INFO] Accuracy: 0.6563981042654028
+2024-04-04 10:08:48,613 [INFO] Testing with const lumination with scale -20
+2024-04-04 10:08:50,141 [INFO] Accuracy: 0.6563981042654028
+2024-04-04 10:08:50,142 [INFO] Testing with const lumination with scale -10
+2024-04-04 10:08:51,677 [INFO] Accuracy: 0.6563981042654028
+2024-04-04 10:08:51,678 [INFO] Testing with const lumination with scale 30
+2024-04-04 10:08:53,207 [INFO] Accuracy: 0.6883886255924171
+2024-04-04 10:08:53,208 [INFO] Testing with const lumination with scale -255
+2024-04-04 10:08:54,740 [INFO] Accuracy: 0.6563981042654028
+2024-04-04 10:08:54,741 [INFO] Testing in setup strong_test
+2024-04-04 10:08:54,741 [INFO] Test in normal setting
+2024-04-04 10:08:55,039 [INFO] Accuracy: 0.74375
+2024-04-04 10:08:55,040 [INFO] Test with added noise
+2024-04-04 10:08:55,040 [INFO] Testing with PSNR 50
+2024-04-04 10:08:55,430 [INFO] Accuracy: 0.7375
+2024-04-04 10:08:55,430 [INFO] Testing with PSNR 40
+2024-04-04 10:08:55,820 [INFO] Accuracy: 0.7375
+2024-04-04 10:08:55,821 [INFO] Testing with PSNR 30
+2024-04-04 10:08:56,211 [INFO] Accuracy: 0.7375
+2024-04-04 10:08:56,212 [INFO] Testing with PSNR 20
+2024-04-04 10:08:56,601 [INFO] Accuracy: 0.725
+2024-04-04 10:08:56,602 [INFO] Testing with PSNR 10
+2024-04-04 10:08:56,994 [INFO] Accuracy: 0.68125
+2024-04-04 10:08:56,995 [INFO] Testing with quadratical lumination
+2024-04-04 10:08:57,311 [INFO] Accuracy: 0.71875
+2024-04-04 10:08:57,312 [INFO] Testing with linear lumination with scale 0.5
+2024-04-04 10:08:57,630 [INFO] Accuracy: 0.725
+2024-04-04 10:08:57,631 [INFO] Testing with linear lumination with scale 0.6
+2024-04-04 10:08:57,951 [INFO] Accuracy: 0.725
+2024-04-04 10:08:57,952 [INFO] Testing with linear lumination with scale 0.75
+2024-04-04 10:08:58,270 [INFO] Accuracy: 0.725
+2024-04-04 10:08:58,271 [INFO] Testing with linear lumination with scale 1.3333333333333333
+2024-04-04 10:08:58,590 [INFO] Accuracy: 0.725
+2024-04-04 10:08:58,591 [INFO] Testing with linear lumination with scale 0.6666666666666666
+2024-04-04 10:08:58,909 [INFO] Accuracy: 0.725
+2024-04-04 10:08:58,910 [INFO] Testing with const lumination with scale -100
+2024-04-04 10:08:59,230 [INFO] Accuracy: 0.7
+2024-04-04 10:08:59,231 [INFO] Testing with const lumination with scale -20
+2024-04-04 10:08:59,549 [INFO] Accuracy: 0.7
+2024-04-04 10:08:59,550 [INFO] Testing with const lumination with scale -10
+2024-04-04 10:08:59,869 [INFO] Accuracy: 0.7
+2024-04-04 10:08:59,870 [INFO] Testing with const lumination with scale 30
+2024-04-04 10:09:00,190 [INFO] Accuracy: 0.725
+2024-04-04 10:09:00,191 [INFO] Testing with const lumination with scale -255
+2024-04-04 10:09:00,509 [INFO] Accuracy: 0.7
